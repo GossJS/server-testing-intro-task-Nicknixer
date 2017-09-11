@@ -1,5 +1,16 @@
-# server_testing_intro_task
-репозиторий-обёртка к заданию по тестированию серверного приложения
+## 1
+https://www.webpackbin.com/bins/-KtWet9AYrCGHudLa0Y9
 
+## 2
+
+npm start
+
+## 3
+
+npm test
+
+
+PS: dont forget to install dependencies (npm i)
+=========
 https://kodaktor.ru/g/04092017
 
