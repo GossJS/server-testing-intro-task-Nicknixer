@@ -10,7 +10,7 @@ npm start
 npm test
 
 
-PS: dont forget to install dependencies (npm i)
+PS: dont forget to install dependencies (npm i) and global mocha
 =========
 https://kodaktor.ru/g/04092017
 
