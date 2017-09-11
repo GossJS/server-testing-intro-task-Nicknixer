@@ -24,8 +24,9 @@ router.use('/author', function (req, res) {
 });
 
 router.use('/length', function (req, res) {
-  let parsedUrl = url.parse(req.url) || '';
-  res.end(`${parsedUrl.query.length}`);
+  let parsedUrl = url.parse(req.url);
+  let len = parsedUrl.query ? parsedUrl.query.length  : 0;
+  res.end(`${len}`);
 });
 
 
